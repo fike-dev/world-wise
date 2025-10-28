@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "d511",
+      "cityName": "Aksum",
+      "country": "Ethiopia",
+      "emoji": "ET",
+      "date": "2025-08-06T14:46:45.984Z",
+      "notes": "Architecture",
+      "position": {
+        "lat": "14.109940039530533",
+        "lng": "38.67736816406251"
+      }
+    },
+    {
+      "id": "1540",
+      "cityName": "Addis Ababa",
+      "country": "Ethiopia",
+      "emoji": "ET",
+      "date": "2025-08-06T14:47:22.274Z",
+      "notes": "Amazing",
+      "position": {
+        "lat": "9.015302333420598",
+        "lng": "38.7542724609375"
+      }
+    },
+    {
+      "id": "2f22",
+      "cityName": "Mek'ele",
+      "country": "Ethiopia",
+      "emoji": "ET",
+      "date": "2025-08-06T19:03:44.785Z",
+      "notes": "That was amazing",
+      "position": {
+        "lat": "13.501146503132595",
+        "lng": "39.47696685791016"
+      }
+    }
+  ]
+}
