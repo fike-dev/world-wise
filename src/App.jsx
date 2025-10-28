@@ -17,10 +17,6 @@ const PageNotFound = lazy(() => import("./pages/PageNotFound"));
 const Login = lazy(() => import("./pages/Login"));
 const AppLayout = lazy(() => import("./pages/AppLayout"));
 
-// dist/index.html                   0.46 kB │ gzip:   0.31 kB
-// dist/assets/index-44a6426e.css   30.35 kB │ gzip:   5.11 kB
-// dist/assets/index-4302243a.js   509.99 kB │ gzip: 149.07 kB
-
 function App() {
   return (
     <div>

@@ -4,7 +4,6 @@ import {
   useContext,
   useEffect,
   useReducer,
-  // useState,
 } from "react";
 
 const CitiesContext = createContext();
