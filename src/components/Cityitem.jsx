@@ -33,7 +33,9 @@ function Cityitem({ city }) {
           id === currentCity.id && styles["cityItem--active"]
         }`}
       >
-        <span className={styles.emoji}>{emoji}</span>
+        <span className={styles.emoji}>
+          <img src={`https://flagsapi.com/${emoji}/flat/48.png`} alt="flag" />
+        </span>
         <h3 className={styles.name}>{cityName}</h3>
         <time className={styles.date}>({formatDate(date)}) </time>
         <button className={styles.deleteBtn} onClick={handleDelete}>

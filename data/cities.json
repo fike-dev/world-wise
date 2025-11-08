@@ -1,30 +1,6 @@
 {
   "cities": [
     {
-      "id": "d511",
-      "cityName": "Aksum",
-      "country": "Ethiopia",
-      "emoji": "ET",
-      "date": "2025-08-06T14:46:45.984Z",
-      "notes": "Architecture",
-      "position": {
-        "lat": "14.109940039530533",
-        "lng": "38.67736816406251"
-      }
-    },
-    {
-      "id": "1540",
-      "cityName": "Addis Ababa",
-      "country": "Ethiopia",
-      "emoji": "ET",
-      "date": "2025-08-06T14:47:22.274Z",
-      "notes": "Amazing",
-      "position": {
-        "lat": "9.015302333420598",
-        "lng": "38.7542724609375"
-      }
-    },
-    {
       "id": "2f22",
       "cityName": "Mek'ele",
       "country": "Ethiopia",
@@ -34,6 +10,30 @@
       "position": {
         "lat": "13.501146503132595",
         "lng": "39.47696685791016"
+      }
+    },
+    {
+      "id": "fc9b",
+      "cityName": "Manchester",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "GB",
+      "date": "2025-11-08T18:58:31.100Z",
+      "notes": "I had a business trip",
+      "position": {
+        "lat": "53.477421969613324",
+        "lng": "-2.2343444824218754"
+      }
+    },
+    {
+      "id": "f19c",
+      "cityName": "Zurich",
+      "country": "Switzerland",
+      "emoji": "CH",
+      "date": "2025-11-08T19:05:49.393Z",
+      "notes": "Vacation",
+      "position": {
+        "lat": "47.34626718205302",
+        "lng": "8.547363281250002"
       }
     }
   ]

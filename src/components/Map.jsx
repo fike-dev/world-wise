@@ -71,7 +71,12 @@ function Map() {
               key={city.id}
             >
               <Popup>
-                <span>{city.emoji} </span>
+                <span>
+                  <img
+                    src={`https://flagsapi.com/${city.emoji}/flat/32.png`}
+                    alt="flag"
+                  />{" "}
+                </span>
                 <span>{city.cityName} </span>
               </Popup>
             </Marker>
